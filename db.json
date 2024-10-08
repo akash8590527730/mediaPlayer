@@ -1,0 +1,56 @@
+{
+  "allVideoes": [
+    {
+      "id": "11a5",
+      "caption": "kanguva",
+      "url": "https://m.media-amazon.com/images/M/MV5BMzBiZDAxY2EtNDc0NS00Y2E0LTk1MGQtODU3MzRmOTVlOTk3XkEyXkFqcGc@._V1_.jpg",
+      "link": "https://www.youtube.com/embed/ajnCMSC4VPo"
+    },
+    {
+      "id": "0397",
+      "caption": "Vaazha",
+      "url": "https://m.media-amazon.com/images/M/MV5BNDEwZDMzMDUtMTU1Ny00YjU1LTg2ODctM2E4NTdjM2ExNTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "link": "https://www.youtube.com/embed/q6e_b0NERCA"
+    },
+    {
+      "id": "fa57",
+      "caption": "css",
+      "url": "https://m.media-amazon.com/images/M/MV5BNDEwZDMzMDUtMTU1Ny00YjU1LTg2ODctM2E4NTdjM2ExNTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "link": "https://www.youtube.com/embed/87IzSX3PpuA"
+    }
+  ],
+  "categories": [
+    {
+      "id": "c48a",
+      "categoryName": "Trailer",
+      "allVideoes": [
+        {
+          "id": "c31c",
+          "caption": "kanguva",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzBiZDAxY2EtNDc0NS00Y2E0LTk1MGQtODU3MzRmOTVlOTk3XkEyXkFqcGc@._V1_.jpg",
+          "link": "https://www.youtube.com/embed/ajnCMSC4VPo"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "4c08",
+      "caption": "ARM",
+      "link": "https://www.youtube.com/embed/rFgS10V8908",
+      "timeStamp": "10/1/2024, 2:57:28 PM GMT+5:30"
+    },
+    {
+      "id": "0f6a",
+      "caption": "Vaazha",
+      "link": "https://www.youtube.com/embed/q6e_b0NERCA",
+      "timeStamp": "10/8/2024, 1:56:24 PM GMT+5:30"
+    },
+    {
+      "caption": "kanguva",
+      "link": "https://www.youtube.com/embed/ajnCMSC4VPo",
+      "timeStamp": "10/8/2024, 3:13:52 PM GMT+5:30",
+      "id": "a3QEwBC"
+    }
+  ]
+}
